@@ -14,9 +14,9 @@ is to defuse your bomb before the due date. Below, the two steps of the project 
 Linux Mint Virtual Box
 
 ## Commands
-gdb bomb
-b phase_x //(1,2,3,4,5)
-r answears.txt
+. gdb bomb
+. b phase_x //(1,2,3,4,5)
+. r answears.txt
 
 ## License
 This project is licensed under the GPLV3 License - see the [LICENSE](LICENSE) file for details
